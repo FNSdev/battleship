@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <Button android:id="@+id/fieldButton0" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton1" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton2" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton3" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton4" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton5" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton6" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton7" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton8" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton9" style="@style/FieldButton" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <Button android:id="@+id/fieldButton10" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton11" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton12" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton13" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton14" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton15" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton16" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton17" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton18" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton19" style="@style/FieldButton" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <Button android:id="@+id/fieldButton20" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton21" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton22" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton23" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton24" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton25" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton26" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton27" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton28" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton29" style="@style/FieldButton" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <Button android:id="@+id/fieldButton30" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton31" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton32" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton33" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton34" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton35" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton36" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton37" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton38" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton39" style="@style/FieldButton" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <Button android:id="@+id/fieldButton40" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton41" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton42" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton43" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton44" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton45" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton46" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton47" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton48" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton49" style="@style/FieldButton" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <Button android:id="@+id/fieldButton50" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton51" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton52" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton53" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton54" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton55" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton56" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton57" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton58" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton59" style="@style/FieldButton" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <Button android:id="@+id/fieldButton60" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton61" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton62" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton63" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton64" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton65" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton66" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton67" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton68" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton69" style="@style/FieldButton" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <Button android:id="@+id/fieldButton70" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton71" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton72" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton73" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton74" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton75" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton76" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton77" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton78" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton79" style="@style/FieldButton" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <Button android:id="@+id/fieldButton80" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton81" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton82" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton83" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton84" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton85" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton86" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton87" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton88" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton89" style="@style/FieldButton" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <Button android:id="@+id/fieldButton90" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton91" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton92" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton93" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton94" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton95" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton96" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton97" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton98" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton99" style="@style/FieldButton" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_marginTop="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="@android:color/darker_gray"/>
+
+    <LinearLayout
+        android:layout_marginTop="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <Button android:id="@+id/fieldButton100" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton101" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton102" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton103" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton104" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton105" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton106" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton107" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton108" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton109" style="@style/FieldButton" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <Button android:id="@+id/fieldButton110" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton111" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton112" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton113" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton114" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton115" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton116" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton117" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton118" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton119" style="@style/FieldButton" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <Button android:id="@+id/fieldButton120" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton121" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton122" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton123" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton124" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton125" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton126" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton127" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton128" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton129" style="@style/FieldButton" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <Button android:id="@+id/fieldButton130" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton131" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton132" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton133" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton134" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton135" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton136" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton137" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton138" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton139" style="@style/FieldButton" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <Button android:id="@+id/fieldButton140" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton141" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton142" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton143" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton144" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton145" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton146" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton147" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton148" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton149" style="@style/FieldButton" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <Button android:id="@+id/fieldButton150" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton151" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton152" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton153" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton154" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton155" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton156" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton157" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton158" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton159" style="@style/FieldButton" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <Button android:id="@+id/fieldButton160" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton161" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton162" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton163" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton164" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton165" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton166" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton167" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton168" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton169" style="@style/FieldButton" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <Button android:id="@+id/fieldButton170" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton171" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton172" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton173" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton174" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton175" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton176" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton177" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton178" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton179" style="@style/FieldButton" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <Button android:id="@+id/fieldButton180" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton181" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton182" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton183" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton184" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton185" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton186" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton187" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton188" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton189" style="@style/FieldButton" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <Button android:id="@+id/fieldButton190" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton191" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton192" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton193" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton194" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton195" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton196" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton197" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton198" style="@style/FieldButton" />
+        <Button android:id="@+id/fieldButton199" style="@style/FieldButton" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_marginTop="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="@android:color/darker_gray"/>
+
+    <Button
+        android:id="@+id/readyButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ready" >
+    </Button>
+
+</LinearLayout>
